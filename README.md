@@ -1,5 +1,5 @@
 # PRATILIPI_ASSIGNMENT
-# PRATILIPI_ASSIGNMENT
+
 
 A companion README for the `prathilipi.py` script included in this repository.
 
